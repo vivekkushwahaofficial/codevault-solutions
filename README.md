@@ -10,9 +10,9 @@
 
 | Metric | Count |
 | --- | ---: |
-| 🏆 Total Solved | 4 |
+| 🏆 Total Solved | 5 |
 | 🔵 Basic | 1 |
-| 🟢 Easy | 3 |
+| 🟢 Easy | 4 |
 | 🟠 Medium | 0 |
 | 🔴 Hard | 0 |
 
@@ -20,10 +20,10 @@
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | █████░░░░░░░░░░░░░░░ 25% | 1/4 |
-| 🟢 Easy | ███████████████░░░░░ 75% | 3/4 |
-| 🟠 Medium | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/4 |
-| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/4 |
+| 🔵 Basic | ████░░░░░░░░░░░░░░░░ 20% | 1/5 |
+| 🟢 Easy | ████████████████░░░░ 80% | 4/5 |
+| 🟠 Medium | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/5 |
+| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/5 |
 
 ## 🔥 Coding Activity
 
@@ -43,21 +43,22 @@
 
 | Language | Problems |
 | --- | ---: |
-| Java | 3 |
+| Java | 4 |
 | C++ | 1 |
 
 ## 🌐 Platforms
 
 | Platform | Problems |
 | --- | ---: |
+| HackerRank | 2 |
 | LeetCode | 2 |
 | gfg | 1 |
-| HackerRank | 1 |
 
 ## 🕒 Recently Solved
 
 | Problem | Difficulty | Language | Platform |
 | --- | --- | --- | --- |
+| [ Java Stdin and Stdout I](HackerRank/Java/Easy/Java-Stdin-and-Stdout-I/README.md) | Easy | Java | HackerRank |
 | [Welcome to Java!](HackerRank/Java/Easy/Welcome-to-Java!/README.md) | Easy | Java | HackerRank |
 | [Array Search](gfg/Java/Basic/Array-Search/README.md) | Basic | Java | gfg |
 | [Two Sum](LeetCode/C++/easy/Two-Sum/README.md) | Easy | C++ | LeetCode |

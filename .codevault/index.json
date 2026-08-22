@@ -80,6 +80,22 @@
         "tags": []
       },
       "solvedAt": "2026-08-22T01:01:55.000Z"
+    },
+    {
+      "path": "HackerRank/Java/Easy/Java-Stdin-and-Stdout-I/Solution.java",
+      "metadata": {
+        "platform": "HackerRank",
+        "title": " Java Stdin and Stdout I",
+        "slug": "java-stdin-and-stdout-1",
+        "difficulty": "Easy",
+        "language": "Java",
+        "url": "https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem?isFullScreen=true",
+        "solvedAt": "2026-08-22T01:51:05.000Z",
+        "patterns": [],
+        "topics": [],
+        "tags": []
+      },
+      "solvedAt": "2026-08-22T01:51:05.000Z"
     }
   ]
 }
