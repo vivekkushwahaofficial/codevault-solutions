@@ -44,6 +44,26 @@
         "spaceComplexity": "O(n)"
       },
       "solvedAt": "2026-08-22T00:41:24.385Z"
+    },
+    {
+      "path": "gfg/Java/Basic/Array-Search/Solution.java",
+      "metadata": {
+        "platform": "gfg",
+        "title": "Array Search",
+        "slug": "search-an-element-in-an-array-1587115621",
+        "difficulty": "Basic",
+        "language": "Java",
+        "url": "https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1",
+        "solvedAt": "2026-08-22T00:54:46.856Z",
+        "patterns": [],
+        "topics": [
+          "Array"
+        ],
+        "tags": [
+          "Array"
+        ]
+      },
+      "solvedAt": "2026-08-22T00:54:46.856Z"
     }
   ]
 }
