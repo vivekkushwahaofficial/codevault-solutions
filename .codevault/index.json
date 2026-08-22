@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "solutions": [
+    {
+      "path": "LeetCode/Java/easy/Two-Sum/Solution.java",
+      "metadata": {
+        "platform": "LeetCode",
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "easy",
+        "language": "Java",
+        "url": "https://leetcode.com/problems/two-sum/submissions/2115583400/",
+        "solvedAt": "2026-08-22T00:40:05.725Z",
+        "patterns": [
+          "Hash Map"
+        ],
+        "topics": [],
+        "tags": [
+          "Hash Map"
+        ],
+        "timeComplexity": "O(n)",
+        "spaceComplexity": "O(n)"
+      },
+      "solvedAt": "2026-08-22T00:40:05.725Z"
+    }
+  ]
+}
