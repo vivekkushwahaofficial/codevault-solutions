@@ -10,9 +10,9 @@
 
 | Metric | Count |
 | --- | ---: |
-| 🏆 Total Solved | 1 |
+| 🏆 Total Solved | 2 |
 | 🔵 Basic | 0 |
-| 🟢 Easy | 1 |
+| 🟢 Easy | 2 |
 | 🟠 Medium | 0 |
 | 🔴 Hard | 0 |
 
@@ -20,10 +20,10 @@
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/1 |
-| 🟢 Easy | ████████████████████ 100% | 1/1 |
-| 🟠 Medium | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/1 |
-| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/1 |
+| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/2 |
+| 🟢 Easy | ████████████████████ 100% | 2/2 |
+| 🟠 Medium | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/2 |
+| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/2 |
 
 ## 🔥 Coding Activity
 
@@ -33,7 +33,7 @@
 
 | Pattern | Problems |
 | --- | ---: |
-| [Hash Map](patterns/Hash%20Map.md) | 1 |
+| [Hash Map](patterns/Hash%20Map.md) | 2 |
 
 _No topic data yet._
 
@@ -41,18 +41,20 @@ _No topic data yet._
 
 | Language | Problems |
 | --- | ---: |
+| C++ | 1 |
 | Java | 1 |
 
 ## 🌐 Platforms
 
 | Platform | Problems |
 | --- | ---: |
-| LeetCode | 1 |
+| LeetCode | 2 |
 
 ## 🕒 Recently Solved
 
 | Problem | Difficulty | Language | Platform |
 | --- | --- | --- | --- |
+| [Two Sum](LeetCode/C++/easy/Two-Sum/README.md) | Easy | C++ | LeetCode |
 | [Two Sum](LeetCode/Java/easy/Two-Sum/README.md) | Easy | Java | LeetCode |
 
 ## 🗂 Repository
