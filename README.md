@@ -10,9 +10,9 @@
 
 | Metric | Count |
 | --- | ---: |
-| 🏆 Total Solved | 3 |
+| 🏆 Total Solved | 4 |
 | 🔵 Basic | 1 |
-| 🟢 Easy | 2 |
+| 🟢 Easy | 3 |
 | 🟠 Medium | 0 |
 | 🔴 Hard | 0 |
 
@@ -20,10 +20,10 @@
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | ███████░░░░░░░░░░░░░ 33% | 1/3 |
-| 🟢 Easy | █████████████░░░░░░░ 67% | 2/3 |
-| 🟠 Medium | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/3 |
-| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/3 |
+| 🔵 Basic | █████░░░░░░░░░░░░░░░ 25% | 1/4 |
+| 🟢 Easy | ███████████████░░░░░ 75% | 3/4 |
+| 🟠 Medium | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/4 |
+| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/4 |
 
 ## 🔥 Coding Activity
 
@@ -43,7 +43,7 @@
 
 | Language | Problems |
 | --- | ---: |
-| Java | 2 |
+| Java | 3 |
 | C++ | 1 |
 
 ## 🌐 Platforms
@@ -52,11 +52,13 @@
 | --- | ---: |
 | LeetCode | 2 |
 | gfg | 1 |
+| HackerRank | 1 |
 
 ## 🕒 Recently Solved
 
 | Problem | Difficulty | Language | Platform |
 | --- | --- | --- | --- |
+| [Welcome to Java!](HackerRank/Java/Easy/Welcome-to-Java!/README.md) | Easy | Java | HackerRank |
 | [Array Search](gfg/Java/Basic/Array-Search/README.md) | Basic | Java | gfg |
 | [Two Sum](LeetCode/C++/easy/Two-Sum/README.md) | Easy | C++ | LeetCode |
 | [Two Sum](LeetCode/Java/easy/Two-Sum/README.md) | Easy | Java | LeetCode |

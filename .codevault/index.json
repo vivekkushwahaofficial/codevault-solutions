@@ -64,6 +64,22 @@
         ]
       },
       "solvedAt": "2026-08-22T00:54:46.856Z"
+    },
+    {
+      "path": "HackerRank/Java/Easy/Welcome-to-Java!/Solution.java",
+      "metadata": {
+        "platform": "HackerRank",
+        "title": "Welcome to Java!",
+        "slug": "welcome-to-java",
+        "difficulty": "Easy",
+        "language": "Java",
+        "url": "https://www.hackerrank.com/challenges/welcome-to-java/problem?isFullScreen=true",
+        "solvedAt": "2026-08-22T01:01:55.000Z",
+        "patterns": [],
+        "topics": [],
+        "tags": []
+      },
+      "solvedAt": "2026-08-22T01:01:55.000Z"
     }
   ]
 }
