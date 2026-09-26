@@ -10,9 +10,9 @@
 
 | Metric | Count |
 | --- | ---: |
-| 🏆 Total Solved | 14 |
+| 🏆 Total Solved | 15 |
 | 🔵 Basic | 1 |
-| 🟢 Easy | 11 |
+| 🟢 Easy | 12 |
 | 🟠 Medium | 2 |
 | 🔴 Hard | 0 |
 
@@ -20,10 +20,10 @@
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | █░░░░░░░░░░░░░░░░░░░ 7% | 1/14 |
-| 🟢 Easy | ████████████████░░░░ 79% | 11/14 |
-| 🟠 Medium | ███░░░░░░░░░░░░░░░░░ 14% | 2/14 |
-| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/14 |
+| 🔵 Basic | █░░░░░░░░░░░░░░░░░░░ 7% | 1/15 |
+| 🟢 Easy | ████████████████░░░░ 80% | 12/15 |
+| 🟠 Medium | ███░░░░░░░░░░░░░░░░░ 13% | 2/15 |
+| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/15 |
 
 ## 🔥 Coding Activity
 
@@ -33,7 +33,7 @@
 
 | Pattern | Problems |
 | --- | ---: |
-| [Hash Map](patterns/Hash%20Map.md) | 3 |
+| [Hash Map](patterns/Hash%20Map.md) | 4 |
 | [Monotonic Stack](patterns/Monotonic%20Stack.md) | 1 |
 | [Stack](patterns/Stack.md) | 1 |
 
@@ -46,7 +46,7 @@
 
 | Language | Problems |
 | --- | ---: |
-| Java | 11 |
+| Java | 12 |
 | Python | 2 |
 | C++ | 1 |
 
@@ -54,7 +54,7 @@
 
 | Platform | Problems |
 | --- | ---: |
-| LeetCode | 7 |
+| LeetCode | 8 |
 | gfg | 4 |
 | HackerRank | 3 |
 
@@ -62,6 +62,7 @@
 
 | Problem | Difficulty | Language | Platform |
 | --- | --- | --- | --- |
+| [Contains Duplicate](LeetCode/Java/easy/Contains-Duplicate/README.md) | Easy | Java | LeetCode |
 | [Add Binary](LeetCode/Java/easy/Add-Binary/README.md) | Easy | Java | LeetCode |
 | [Roman to Integer](LeetCode/Java/easy/Roman-to-Integer/README.md) | Easy | Java | LeetCode |
 | [Reverse Integer](LeetCode/Java/medium/Reverse-Integer/README.md) | Medium | Java | LeetCode |
@@ -71,7 +72,6 @@
 | [Two Sum](LeetCode/Python/easy/Two-Sum/README.md) | Easy | Python | LeetCode |
 | [ Java Stdin and Stdout I](HackerRank/Java/Easy/Java-Stdin-and-Stdout-I/README.md) | Easy | Java | HackerRank |
 | [Two Sum](LeetCode/C++/easy/Two-Sum/README.md) | Easy | C++ | LeetCode |
-| [Next Greater Element](gfg/Java/Medium/Next-Greater-Element/README.md) | Medium | Java | gfg |
 
 ## 🗂 Repository
 

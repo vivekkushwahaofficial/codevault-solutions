@@ -265,6 +265,27 @@
         "tags": []
       },
       "solvedAt": "2026-09-25T19:01:38.418Z"
+    },
+    {
+      "path": "LeetCode/Java/easy/Contains-Duplicate/Solution.java",
+      "metadata": {
+        "platform": "LeetCode",
+        "title": "Contains Duplicate",
+        "slug": "contains-duplicate",
+        "difficulty": "easy",
+        "language": "Java",
+        "url": "https://leetcode.com/problems/contains-duplicate/submissions/2154296400/",
+        "solvedAt": "2026-09-26T18:58:48.670Z",
+        "patterns": [
+          "Hash Map"
+        ],
+        "topics": [],
+        "tags": [
+          "Hash Map"
+        ],
+        "spaceComplexity": "O(n)"
+      },
+      "solvedAt": "2026-09-26T18:58:48.670Z"
     }
   ]
 }
