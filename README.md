@@ -10,9 +10,9 @@
 
 | Metric | Count |
 | --- | ---: |
-| 🏆 Total Solved | 15 |
+| 🏆 Total Solved | 16 |
 | 🔵 Basic | 1 |
-| 🟢 Easy | 12 |
+| 🟢 Easy | 13 |
 | 🟠 Medium | 2 |
 | 🔴 Hard | 0 |
 
@@ -20,10 +20,10 @@
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | █░░░░░░░░░░░░░░░░░░░ 7% | 1/15 |
-| 🟢 Easy | ████████████████░░░░ 80% | 12/15 |
-| 🟠 Medium | ███░░░░░░░░░░░░░░░░░ 13% | 2/15 |
-| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/15 |
+| 🔵 Basic | █░░░░░░░░░░░░░░░░░░░ 6% | 1/16 |
+| 🟢 Easy | ████████████████░░░░ 81% | 13/16 |
+| 🟠 Medium | ███░░░░░░░░░░░░░░░░░ 13% | 2/16 |
+| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/16 |
 
 ## 🔥 Coding Activity
 
@@ -33,7 +33,7 @@
 
 | Pattern | Problems |
 | --- | ---: |
-| [Hash Map](patterns/Hash%20Map.md) | 4 |
+| [Hash Map](patterns/Hash%20Map.md) | 5 |
 | [Monotonic Stack](patterns/Monotonic%20Stack.md) | 1 |
 | [Stack](patterns/Stack.md) | 1 |
 
@@ -46,7 +46,7 @@
 
 | Language | Problems |
 | --- | ---: |
-| Java | 12 |
+| Java | 13 |
 | Python | 2 |
 | C++ | 1 |
 
@@ -54,7 +54,7 @@
 
 | Platform | Problems |
 | --- | ---: |
-| LeetCode | 8 |
+| LeetCode | 9 |
 | gfg | 4 |
 | HackerRank | 3 |
 
@@ -62,6 +62,7 @@
 
 | Problem | Difficulty | Language | Platform |
 | --- | --- | --- | --- |
+| [Contains Duplicate II](LeetCode/Java/easy/Contains-Duplicate-II/README.md) | Easy | Java | LeetCode |
 | [Contains Duplicate](LeetCode/Java/easy/Contains-Duplicate/README.md) | Easy | Java | LeetCode |
 | [Add Binary](LeetCode/Java/easy/Add-Binary/README.md) | Easy | Java | LeetCode |
 | [Roman to Integer](LeetCode/Java/easy/Roman-to-Integer/README.md) | Easy | Java | LeetCode |
@@ -71,7 +72,6 @@
 | [Array Search](gfg/Java/Basic/Array-Search/README.md) | Basic | Java | gfg |
 | [Two Sum](LeetCode/Python/easy/Two-Sum/README.md) | Easy | Python | LeetCode |
 | [ Java Stdin and Stdout I](HackerRank/Java/Easy/Java-Stdin-and-Stdout-I/README.md) | Easy | Java | HackerRank |
-| [Two Sum](LeetCode/C++/easy/Two-Sum/README.md) | Easy | C++ | LeetCode |
 
 ## 🗂 Repository
 

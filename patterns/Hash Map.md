@@ -6,3 +6,4 @@
 - [Two Sum](../LeetCode/C++/easy/Two-Sum/README.md) — LeetCode · C++ · easy
 - [Two Sum](../LeetCode/Python/easy/Two-Sum/README.md) — LeetCode · Python · easy
 - [Contains Duplicate](../LeetCode/Java/easy/Contains-Duplicate/README.md) — LeetCode · Java · easy
+- [Contains Duplicate II](../LeetCode/Java/easy/Contains-Duplicate-II/README.md) — LeetCode · Java · easy
