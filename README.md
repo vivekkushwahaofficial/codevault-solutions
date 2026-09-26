@@ -10,9 +10,9 @@
 
 | Metric | Count |
 | --- | ---: |
-| 🏆 Total Solved | 16 |
+| 🏆 Total Solved | 17 |
 | 🔵 Basic | 1 |
-| 🟢 Easy | 13 |
+| 🟢 Easy | 14 |
 | 🟠 Medium | 2 |
 | 🔴 Hard | 0 |
 
@@ -20,10 +20,10 @@
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | █░░░░░░░░░░░░░░░░░░░ 6% | 1/16 |
-| 🟢 Easy | ████████████████░░░░ 81% | 13/16 |
-| 🟠 Medium | ███░░░░░░░░░░░░░░░░░ 13% | 2/16 |
-| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/16 |
+| 🔵 Basic | █░░░░░░░░░░░░░░░░░░░ 6% | 1/17 |
+| 🟢 Easy | ████████████████░░░░ 82% | 14/17 |
+| 🟠 Medium | ██░░░░░░░░░░░░░░░░░░ 12% | 2/17 |
+| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/17 |
 
 ## 🔥 Coding Activity
 
@@ -47,7 +47,7 @@
 | Language | Problems |
 | --- | ---: |
 | Java | 13 |
-| Python | 2 |
+| Python | 3 |
 | C++ | 1 |
 
 ## 🌐 Platforms
@@ -56,12 +56,13 @@
 | --- | ---: |
 | LeetCode | 9 |
 | gfg | 4 |
-| HackerRank | 3 |
+| HackerRank | 4 |
 
 ## 🕒 Recently Solved
 
 | Problem | Difficulty | Language | Platform |
 | --- | --- | --- | --- |
+| [List Comprehensions](HackerRank/Python/Easy/List-Comprehensions/README.md) | Easy | Python | HackerRank |
 | [Contains Duplicate II](LeetCode/Java/easy/Contains-Duplicate-II/README.md) | Easy | Java | LeetCode |
 | [Contains Duplicate](LeetCode/Java/easy/Contains-Duplicate/README.md) | Easy | Java | LeetCode |
 | [Add Binary](LeetCode/Java/easy/Add-Binary/README.md) | Easy | Java | LeetCode |
@@ -71,7 +72,6 @@
 | [Stock Buy and Sell – Max one Transaction Allowed](gfg/Java/Easy/Stock-Buy-and-Sell-–-Max-one-Transaction-Allowed/README.md) | Easy | Java | gfg |
 | [Array Search](gfg/Java/Basic/Array-Search/README.md) | Basic | Java | gfg |
 | [Two Sum](LeetCode/Python/easy/Two-Sum/README.md) | Easy | Python | LeetCode |
-| [ Java Stdin and Stdout I](HackerRank/Java/Easy/Java-Stdin-and-Stdout-I/README.md) | Easy | Java | HackerRank |
 
 ## 🗂 Repository
 
